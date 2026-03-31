@@ -1,5 +1,9 @@
 package gr.aueb.cf.ch2;
 import java.util.Scanner;
+
+/**
+ * Η κλάση διαβάζει τη θερμοκρασία σε βαθμούς Fahrenheit και εμφανίζει τους αντίστοιχους  βαθμούς Κελσίου
+ */
 public class CelsiusApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

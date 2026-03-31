@@ -1,5 +1,8 @@
 package gr.aueb.cf.ch1;
 
+/**
+ * Η κλάση εμφανίζει ένα μενού
+ */
 public class MenuApp {
     public static void main(String[] args) {
         System.out.println(" ");

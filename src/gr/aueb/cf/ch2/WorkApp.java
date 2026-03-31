@@ -1,5 +1,11 @@
+package gr.aueb.cf.ch2;
+
 import java.util.Scanner;
 
+/**
+Η κλάση διαβάζει πόσες ώρες και πόσοι εργαζόμενοι απαιτούνται για ένα προτζεκτ και υπολογίζει πόσες ώρες αντιστοιχόυν
+ σε κάθε εργαζόμενο.
+ */
 public class WorkApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

@@ -1,5 +1,8 @@
 package gr.aueb.cf.ch1;
 
+/**
+ * Η κλάση υπολογίζει και εμφανίζει το άθροισμα 2 αριθμών
+ */
 public class Sum {
     public static void main(String[] args){
         int num1 = 19;

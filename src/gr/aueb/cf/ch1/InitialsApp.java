@@ -1,5 +1,8 @@
 package gr.aueb.cf.ch1;
 
+/**
+ * Τα αρχικά μου :D
+ */
 public class InitialsApp {
     public static void main(String[] args)
     {

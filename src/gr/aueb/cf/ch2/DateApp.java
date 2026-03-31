@@ -2,6 +2,9 @@ package gr.aueb.cf.ch2;
 
 import java.util.Scanner;
 
+/**
+ * Η κλάση διαβάζει την ημέρα, το μήνα και το έτος και εμφανίζει την ημερομηνία σε format dd/mm/yy
+ */
 public class DateApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
