@@ -14,7 +14,7 @@ public class StarApp {
             printMenu();
             choise = scanner.nextInt();
 
-            if (choise == 6) {
+            if (choise == EXIT) {
                 System.out.println("Έξοδος");
                 break;
             }
