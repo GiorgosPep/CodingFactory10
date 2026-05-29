@@ -12,6 +12,7 @@ public class PointXYZ {
     public PointXYZ() {
     }
 
+
     public PointXYZ(double x, double y, double z) {
         this.x = x;
         this.y = y;
@@ -42,6 +43,12 @@ public class PointXYZ {
         this.z = z;
     }
 
+    /**
+     * Calculates the distance between two points
+     * @param x point 1
+     * @param y point 2
+     * @return
+     */
     public double getXYDistance(double x, double y){
         return Math.sqrt(x*x + y*y);
     }
